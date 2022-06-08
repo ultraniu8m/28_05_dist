@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\dist_28_05\Calculations\bin\Debug\netstandard2.0\Calculations.deps.json
+C:\Users\user\source\repos\dist_28_05\Calculations\bin\Debug\netstandard2.0\Calculations.dll
+C:\Users\user\source\repos\dist_28_05\Calculations\bin\Debug\netstandard2.0\Calculations.pdb
+C:\Users\user\source\repos\dist_28_05\Calculations\obj\Debug\netstandard2.0\Calculations.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dist_28_05\Calculations\obj\Debug\netstandard2.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dist_28_05\Calculations\obj\Debug\netstandard2.0\Calculations.AssemblyInfo.cs
+C:\Users\user\source\repos\dist_28_05\Calculations\obj\Debug\netstandard2.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dist_28_05\Calculations\obj\Debug\netstandard2.0\Calculations.dll
+C:\Users\user\source\repos\dist_28_05\Calculations\obj\Debug\netstandard2.0\Calculations.pdb

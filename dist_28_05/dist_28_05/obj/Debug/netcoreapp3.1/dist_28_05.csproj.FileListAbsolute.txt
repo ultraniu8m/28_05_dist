@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\dist_28_05\dist_28_05\bin\Debug\netcoreapp3.1\dist_28_05.exe
+C:\Users\user\source\repos\dist_28_05\dist_28_05\bin\Debug\netcoreapp3.1\dist_28_05.deps.json
+C:\Users\user\source\repos\dist_28_05\dist_28_05\bin\Debug\netcoreapp3.1\dist_28_05.runtimeconfig.json
+C:\Users\user\source\repos\dist_28_05\dist_28_05\bin\Debug\netcoreapp3.1\dist_28_05.runtimeconfig.dev.json
+C:\Users\user\source\repos\dist_28_05\dist_28_05\bin\Debug\netcoreapp3.1\dist_28_05.dll
+C:\Users\user\source\repos\dist_28_05\dist_28_05\bin\Debug\netcoreapp3.1\dist_28_05.pdb
+C:\Users\user\source\repos\dist_28_05\dist_28_05\bin\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\user\source\repos\dist_28_05\dist_28_05\bin\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\user\source\repos\dist_28_05\dist_28_05\obj\Debug\netcoreapp3.1\dist_28_05.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dist_28_05\dist_28_05\obj\Debug\netcoreapp3.1\dist_28_05.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dist_28_05\dist_28_05\obj\Debug\netcoreapp3.1\dist_28_05.AssemblyInfo.cs
+C:\Users\user\source\repos\dist_28_05\dist_28_05\obj\Debug\netcoreapp3.1\dist_28_05.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dist_28_05\dist_28_05\obj\Debug\netcoreapp3.1\dist_28_05.csproj.CopyComplete
+C:\Users\user\source\repos\dist_28_05\dist_28_05\obj\Debug\netcoreapp3.1\dist_28_05.dll
+C:\Users\user\source\repos\dist_28_05\dist_28_05\obj\Debug\netcoreapp3.1\dist_28_05.pdb
+C:\Users\user\source\repos\dist_28_05\dist_28_05\obj\Debug\netcoreapp3.1\dist_28_05.genruntimeconfig.cache
